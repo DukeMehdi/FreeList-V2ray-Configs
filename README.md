@@ -79,54 +79,30 @@
 
 *   🔴 **تمامی کانفیگ‌ها باهم:**
     ```
-    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/configs/V2Ray-Configs-By-DukeMehdi-All-Type.txt
+    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/V2Ray-Configs-By-DukeMehdi-All-Type.txt
     ```
 *   🟢 **کانفیگ کلی اما سبک‌تر:**
     ```
-    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/configs/Lite-V2Ray-Configs-By-DukeMehdi.txt
+    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/Lite-V2Ray-Configs-By-DukeMehdi.txt
     ```
 *   ✔️ **همه VLESS:**
     ```
-    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/configs/VLESS-V2Ray-Configs-By-DukeMehdi.txt
+    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/VLESS-V2Ray-Configs-By-DukeMehdi.txt
     ```
 *   ✔️ **همه VMess:**
     ```
-    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/configs/VMess-V2Ray-Configs-By-DukeMehdi.txt
+    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/VMess-V2Ray-Configs-By-DukeMehdi.txt
     ```
 *   ✔️ **همه ShadowSocks:**
     ```
-    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/configs/ShadowSocks-V2Ray-Configs-By-DukeMehdi.txt
+    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/ShadowSocks-V2Ray-Configs-By-DukeMehdi.txt
     ```
 *   ✔️ **همه Trojan:**
     ```
-    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/configs/Trojan-V2Ray-Configs-By-DukeMehdi.txt
+    https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/Trojan-V2Ray-Configs-By-DukeMehdi.txt
     ```
 
 ## 📧 راه ارتباط با من:
 تلگرام: https://t.me/DukeMehdi
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-📌 بروزرسانی شده: 1404/آذر/23 - 10:53:50
