@@ -5303,7 +5303,6 @@ trojan://telegram-id-privatevpns@63.179.40.205:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.179.40.205:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@63.179.73.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@63.179.81.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
-trojan://telegram-id-privatevpns@63.180.216.181:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] trojan-DE # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@63.181.135.100:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@63.181.135.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-v2rayvpnchannel@15.236.29.84:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
