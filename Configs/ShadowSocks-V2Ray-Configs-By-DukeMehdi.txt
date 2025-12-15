@@ -1315,6 +1315,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@88.210.36.107:2377 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@95.174.71.29:2377 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@95.174.71.98:2377/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3De7b7ab7%3A102816 # 🔒 [By DukeMehdi]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@95.174.71.98:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3De7b7ab7%3A102816 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NjlyVHNoZ05GakJRRmllMTNqVGVO@147.45.178.15:53122 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NjlyVHNoZ05GakJRRmllMTNqVGVO@147.45.178.15:53122?note=--Telegram--@NetifyVPN-- # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Y1VITEZYY1VuVzVJbER4LWxiV0ZB@91.134.11.136:100 # 🔒 [By DukeMehdi]
