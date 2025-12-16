@@ -4777,7 +4777,6 @@ vless://Parsashonam-Bot-41@104.17.147.22:8080?security=&encryption=none&host=spe
 vless://Parsashonam-Bot-41@104.17.147.22:8080?security=&encryption=none&host=speedtest.net&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- # [ By DukeMehdi ] 🔒
 vless://Parsashonam-Bot-41@104.17.147.22:8080?security=none&type=ws&host=speedtest.net&encryption=none # [ By DukeMehdi ] 🔒
 vless://Parsashonam-Bot-41@104.17.147.22:8880?security=&encryption=none&host=speedtest.net&type=ws # [ By DukeMehdi ] 🔒
-vless://Parsashonam-Bot-41@104.17.147.22:8880?security=none&type=ws&host=speedtest.net&encryption=none # [ By DukeMehdi ] 🔒
 vless://PishiNetVPN@free.piche.pw:443?security=reality&encryption=none&pbk=EZTa45xsiH73ZE0l-VWVfUq7W_dU_zwo2VKpHOXzHw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=cf86b03cf7a52a # [ By DukeMehdi ] 🔒
 vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&security=&encryption=none&type=xhttp # [ By DukeMehdi ] 🔒
 vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&security=none&encryption=none&type=xhttp # [ By DukeMehdi ] 🔒
