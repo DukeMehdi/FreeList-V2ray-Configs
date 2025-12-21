@@ -5051,7 +5051,6 @@ ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.036.nod
 ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.037.node-for-bigairport.win:11688 # 🔒 [By DukeMehdi]
 ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.040.node-for-bigairport.win:11689 # 🔒 [By DukeMehdi]
 ss://YWVzLTI1Ni1nY206NzExNDZiODMtMmJjMC00MjU4LTgzMGEtYTdjMjViZjFjNjM2@132.226.164.14:7705 # 🔒 [By DukeMehdi]
-ss://YWVzLTI1Ni1nY206NzkyZTBiZGItMDFkYi00NTBjLTk0YzQtOTI1MTUxZWIzOTZl@ss.038.node-for-bigairport.win:11689 # 🔒 [By DukeMehdi]
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636 # 🔒 [By DukeMehdi]
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls # 🔒 [By DukeMehdi]
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djp7v1.lingjfjkm002.com%3Bpath%3D%2Fdchlbvrbbotc%3Bmux%3Dmux%3D4%3B%3B # 🔒 [By DukeMehdi]
