@@ -2722,7 +2722,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZYVh2eWJ4clA5SEw3OUdmbHR5bTlidy81UUlRQVcvZg=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag@45.140.146.223:8388 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZalZrTg==@nl2.ssocks.wiki:8388 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZalZrTg@nl2.ssocks.wiki:8388 # 🔒 [By DukeMehdi]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamt4WQ@us1.opensocks.site:8388 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA@95.174.68.33:443?note=@freeOnlineVPN # 🔒 [By DukeMehdi]
