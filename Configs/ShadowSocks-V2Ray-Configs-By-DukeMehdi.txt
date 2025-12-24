@@ -956,6 +956,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443 # �
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SUU4eWVDWlUyc2pUTjEzT0hIZDRj@147.45.60.33:16356 # 🔒 [By DukeMehdi]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2TktsU3pXRDhqRGg0NEc3U3RBc1JB@77.110.99.118:56949 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2TktsU3pXRDhqRGg0NEc3U3RBc1JB@77.110.99.118:56949/?outline=1&note=@freeOnlineVPN # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2TktsU3pXRDhqRGg0NEc3U3RBc1JB@77.110.99.118:56949?note=@freeOnlineVPN # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443 # 🔒 [By DukeMehdi]

@@ -5314,7 +5314,6 @@ trojan://telegram-id-privatevpns@3.75.2.219:22222?security=tls&amp;alpn=http/1.1
 trojan://telegram-id-privatevpns@3.76.184.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@3.77.162.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@3.78.3.121:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
-trojan://telegram-id-privatevpns@3.78.3.121:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By DukeMehdi] trojan-DE # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@3.79.132.34:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 873 # 🔒 [By DukeMehdi]
