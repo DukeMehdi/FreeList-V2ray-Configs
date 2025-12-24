@@ -3368,6 +3368,7 @@ trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=🔒 [By Duk
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&allowInsecure=1 # 🔒 [By DukeMehdi]
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=🔒 [By DukeMehdi]&allowInsecure=1&note=@freeOnlineVPN # 🔒 [By DukeMehdi]
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By DukeMehdi] trojan-US # 🔒 [By DukeMehdi]
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;sni=🔒 [By DukeMehdi]&amp;allowInsecure=true&amp;fp=chrome # 🔒 [By DukeMehdi]
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&fp=chrome&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp # 🔒 [By DukeMehdi]
