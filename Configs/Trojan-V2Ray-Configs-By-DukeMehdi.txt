@@ -661,6 +661,7 @@ trojan://432f85e0-4684-11f0-b5ac-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@188.240.213.45:20071/?type=tcp&security=tls&sni=🔒 [By DukeMehdi]&allowInsecure=1 # 🔒 [By DukeMehdi]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 877 # 🔒 [By DukeMehdi]
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=🔒 [By DukeMehdi] trojan-HK # 🔒 [By DukeMehdi]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?security=tls&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 468 # 🔒 [By DukeMehdi]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 539 # 🔒 [By DukeMehdi]
