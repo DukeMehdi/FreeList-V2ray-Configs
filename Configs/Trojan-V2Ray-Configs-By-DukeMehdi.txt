@@ -3646,6 +3646,7 @@ trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443/?type=ws&host=m5
 trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.201.201:443/?type=ws&path=🔒 [By DukeMehdi]&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls # 🔒 [By DukeMehdi]
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=🔒 [By DukeMehdi]&amp;allowInsecure=true # 🔒 [By DukeMehdi]
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp # 🔒 [By DukeMehdi]
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
