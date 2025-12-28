@@ -455,6 +455,7 @@ trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni
 trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443?type=tcp&sni=🔒 [By DukeMehdi]&allowInsecure=1 # 🔒 [By DukeMehdi]
 trojan://2B9cZhVM0V@c.netnor.xyz:23570?security=tls&headerType=none&type=tcp # 🔒 [By DukeMehdi]
 trojan://2KtkEp9IDe@79.137.195.203:2053?type=ws&path=🔒 [By DukeMehdi]&host=joker.ahang-alpha.ir&security=none # 🔒 [By DukeMehdi]
+trojan://2a00db26-f56b-46ce-8f0c-10d77c6491d7@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=🔒 [By DukeMehdi] trojan-US # 🔒 [By DukeMehdi]
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443/?type=tcp&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443?security=tls&sni=🔒 [By DukeMehdi]&type=ws&path=🔒 [By DukeMehdi]&host=de1.test3.net # 🔒 [By DukeMehdi]
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@172.67.159.13:443?security=tls&sni=🔒 [By DukeMehdi]&type=ws&path=🔒 [By DukeMehdi]&host=de1.test3.net # 🔒 [By DukeMehdi]
