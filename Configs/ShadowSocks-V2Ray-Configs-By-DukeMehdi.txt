@@ -1119,6 +1119,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354?type=tcp # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VDRFOHFWUjY4dnVnMzdON2hXWmpJ@92.118.112.101:9483 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VDRFOHFWUjY4dnVnMzdON2hXWmpJ@92.118.112.101:9483?note=--Telegram--@V2ray_official-- # 🔒 [By DukeMehdi]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY%3D@194.38.23.137:31348 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZFZMYWNjR0JxRng=@62.60.233.21:443 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZFZMYWNjR0JxRng=@62.60.233.21:443?type=tcp # 🔒 [By DukeMehdi]
