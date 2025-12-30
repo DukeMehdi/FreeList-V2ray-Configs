@@ -3500,7 +3500,6 @@ ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@47.76.185.99:80/?plugin=obfs-local%3Bmode%
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@47.76.185.99:80?plugin=obfs-local;mode=websocket # 🔒 [By DukeMehdi]
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@8.218.196.35:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8 # 🔒 [By DukeMehdi]
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@8.218.196.35:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8 # 🔒 [By DukeMehdi]
-ss://YWVzLTEyOC1nY206ZDVkYjE4ZWEtNjVkNy00ZGY1LWJhMTMtMDJlOTQ5YmQwNmJj@hkrelink-g.stand3pro.org:566 # 🔒 [By DukeMehdi]
 ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz # 🔒 [By DukeMehdi]
 ss://YWVzLTEyOC1nY206ZzEyc1FpI3NzIyYx@183.232.170.32:20012/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3Dundefined # 🔒 [By DukeMehdi]
 ss://YWVzLTEyOC1nY206ZzEyc1FpI3NzIyYx@183.232.170.32:20013/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3Dundefined # 🔒 [By DukeMehdi]
