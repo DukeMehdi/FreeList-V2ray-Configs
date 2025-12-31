@@ -2268,7 +2268,6 @@ trojan://BxceQaOe@52.194.193.12:11945/?type=tcp&security=tls&sni=🔒 [By DukeMe
 trojan://BxceQaOe@52.194.193.12:11945?security=tls&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 871 # 🔒 [By DukeMehdi]
 trojan://BxceQaOe@52.194.193.12:2762?allowInsecure=1&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://BxceQaOe@52.194.193.12:2762?allowInsecure=1&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 429 # 🔒 [By DukeMehdi]
-trojan://BxceQaOe@52.194.193.12:2762?allowInsecure=1&sni=🔒 [By DukeMehdi] trojan-JP # 🔒 [By DukeMehdi]
 trojan://BxceQaOe@52.194.193.12:2762?sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://BxceQaOe@52.194.193.12:2762?sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 117 # 🔒 [By DukeMehdi]
 trojan://BxceQaOe@54.238.137.20:3127?allowInsecure=1&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
