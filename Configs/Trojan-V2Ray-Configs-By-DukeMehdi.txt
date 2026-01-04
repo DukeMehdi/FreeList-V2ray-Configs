@@ -853,8 +853,6 @@ trojan://5a2c16f9@cf.130519.xyz:443?sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?allowInsecure=0&sni=🔒 [By DukeMehdi]&ws=1&wspath=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒 [By DukeMehdi]&amp%3Bsecurity=tls&amp%3Bhost=snippets.kkii.eu.org&amp%3Btype=ws&amp%3Bsni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒 [By DukeMehdi]&security=tls&host=snippets.kkii.eu.org&type=ws&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
-trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒 [By DukeMehdi]&security=tls&host=snippets.kkii.eu.org&type=ws&sni=🔒 [By DukeMehdi] 29 | Dey-14| MTSRVRS # 🔒 [By DukeMehdi]
-trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒 [By DukeMehdi]&security=tls&host=snippets.kkii.eu.org&type=ws&sni=🔒 [By DukeMehdi] 30 | Dey-14| MTSRVRS # 🔒 [By DukeMehdi]
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒 [By DukeMehdi]&security=tls&host=snippets.kkii.eu.org&type=ws&sni=🔒 [By DukeMehdi] ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee # 🔒 [By DukeMehdi]
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=🔒 [By DukeMehdi]&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?security=tls&sni=🔒 [By DukeMehdi]&type=ws&path=🔒 [By DukeMehdi]&Host=snippets.kkii.eu.org # 🔒 [By DukeMehdi]
