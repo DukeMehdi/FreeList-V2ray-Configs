@@ -1099,6 +1099,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc@144.126.146.38:30789 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTk0OWQ3NS0zNTEwLTQ2NzgtODU5My0zYzUwMzJkZDkzMWE@wqfuinwqffq.dfcloud.xyz:30818 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA@clr.ducks.tel:17844 # 🔒 [By DukeMehdi]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N09uREVaWUdqYTQ=@178.18.244.2:443 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N09uREVaWUdqYTQ@178.18.244.2:443 # 🔒 [By DukeMehdi]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443 # 🔒 [By DukeMehdi]
