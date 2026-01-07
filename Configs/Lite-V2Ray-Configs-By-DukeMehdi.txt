@@ -1,13 +1,25 @@
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@us2.krasivogame.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=&fp=chrome&type=tcp&sni=us2.krasivogame.ru&sid=868419504747f6de#🇺🇸[By DukeMehdi] vless-US 🔒
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@109.122.197.47:443?security=reality&encryption=none&pbk=UvKVWWtHdyyEdj7_QvPTi0SYENAp1PaMWpPuSJi1LTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=8e344050e2537240#🇩🇪[By DukeMehdi] vless-DE 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YmM4ZWVmZmQwMzI1MTQx@154.205.134.251:11201#🇸🇦[By DukeMehdi] ss-SA 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#🏳[By DukeMehdi] ss- 🔒
+vless://98895157-4ded-4eeb-a22c-058ed62bdac3@us01-gmn-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#🇺🇸[By DukeMehdi] vless-US 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11203#🇬🇷[By DukeMehdi] ss-GR 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzNjNGNhZTAxZjhiYWNm@135.125.247.29:11201#🏳[By DukeMehdi] ss- 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#🇪🇬[By DukeMehdi] ss-EG 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYmJjYmZkNTMzMDQ3NWQx@141.95.106.215:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MTM0NDk0MDI3Njg5YmJi@92.223.62.214:11201#🏳[By DukeMehdi] ss- 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇴[By DukeMehdi] ss-NO 🔒
+vless://08c7f096-d057-4d53-82fd-c739d372887b@104.16.53.11:8880?encryption=none&amp;type=ws&amp;host=sweeden.mastermarly.ir&amp;path=/&amp;packetEncoding=xudp#🇸🇪[By DukeMehdi] vless-SE 🔒
 vless://8484ea39-9d12-4bb7-a836-41f239ec0aac@82.117.87.48:62641?security=reality&encryption=none&pbk=lMC4L9tKuQ3Hch61kbyKu3zsz2euNTmuRooNkwYIXk4&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0db231333b4a9fd1#🇷🇺[By DukeMehdi] vless-RU 🔒
-vless://3560c119-e298-43c1-b087-e77a4b3d7bf9@94k.bestusers.ir:4881?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[By DukeMehdi] vless-DE 🔒
+vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@94k.bestusers.ir:4881?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[By DukeMehdi] vless-DE 🔒
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&amp;encryption=none&amp;pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=i2pd.website&amp;sid=55e6af1a35e64a98#🇮🇱[By DukeMehdi] vless-IL 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDenR3eTM0QjA3ZXFONkg0WW9QR1ha@93.183.94.163:32609#🇷🇺[By DukeMehdi] ss-RU 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NGMzMDNjMjg2NmM4Mzk5@141.95.105.216:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjVkMWJmZjc2Y2FlODdj@141.95.105.96:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 vless://72d71a79-8412-4f22-8320-e2b78075d95e@95k.bestusers.ir:8989?flow=&type=ws&host=&path=/&security=none#🇩🇪[By DukeMehdi] vless-DE 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTNjNzU1ODFhZGU0NzFk@141.95.101.202:11201#🏳[By DukeMehdi] ss- 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTNjNzU1ODFhZGU0NzFk@141.95.101.202:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 vless://ddef83b7-0269-fc4f-bd8e-c33e2c5df807@89.124.70.62:5398?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&headerType=none&fp=firefox&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=703ee948f0421d44#🇮🇪[By DukeMehdi] vless-IE 🔒
-vless://df97d629-086a-4f70-a061-0921af686a21@tun.dehkademobile.eu:9006?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#🏳[By DukeMehdi] vless- 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOGYxMWUyYmE2MzE4MWVh@156.244.20.53:11201#🏳[By DukeMehdi] ss- 🔒
 vless://2dad8651-00b3-4863-9b2e-7281280e2cc9@92.38.135.61:10930?&type=tcp&headerType=none&path=%2F#🇰🇷[By DukeMehdi] vless-KR 🔒
 vless://94f729b1-5e1c-474f-a952-b8816a04e2fc@195.2.76.224:48868?security=reality&encryption=none&pbk=QU6XzGL-1O93-UxkJYiV364sy30S5bI5EOahJL2blnE&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=f2e878#🇷🇺[By DukeMehdi] vless-RU 🔒
@@ -15,17 +27,17 @@ vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?path=%2F&sec
 vless://146ea0d5-f02d-4f72-9665-04be2df345d1@82.97.252.100:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇷🇺[By DukeMehdi] vless-RU 🔒
 vless://b2ce47d7-f8dc-4fcf-8d51-de4c235a7c40@5.78.48.77:2095?security=&encryption=none&type=grpc#🇺🇸[By DukeMehdi] vless-US 🔒
 vless://e343471a-aad3-40da-9dea-72cc8c7dce5f@unamecf.xn--ghqu5fm27b67w.com:443?path=%2Fpq%2Fjp1&security=tls&encryption=none&insecure=1&host=ujp1.xn--ghqu5fm27b67w.com&fp=ios&type=ws&allowInsecure=1&sni=ujp1.xn--ghqu5fm27b67w.com#🇯🇵[By DukeMehdi] vless-JP 🔒
+vless://a9171965-cda0-461f-a6f2-a57069c875a3@2k.taptop.shop:4881?security=none&encryption=none&headerType=none&type=tcp#🇫🇷[By DukeMehdi] vless-FR 🔒
 vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443?path=%2Fdar&security=tls&encryption=none&host=hetzner.rahedarro.com&type=ws&sni=hetzner.rahedarro.com#🇩🇪[By DukeMehdi] vless-DE 🔒
-vless://de14ae87-5b0b-4012-a9d6-890f7813801a@65.109.184.27:443?security=reality&encryption=none&pbk=morxJfGxtCi0KeEAY4q73DaWGCL4uJVLwcPemGoikRE&host=www.speedtest.net&headerType=http&fp=chrome&spx=%2FezAVp7KfJLThzEJ&type=tcp&sni=apple.com&sid=37#🇫🇮[By DukeMehdi] vless-FI 🔒
+vless://de14ae87-5b0b-4012-a9d6-890f7813801a@65.109.184.27:443?security=reality&amp;encryption=none&amp;pbk=morxJfGxtCi0KeEAY4q73DaWGCL4uJVLwcPemGoikRE&amp;host=www.speedtest.net&amp;headerType=http&amp;fp=chrome&amp;spx=%2FezAVp7KfJLThzEJ&amp;type=tcp&amp;sni=apple.com&amp;sid=37#🇫🇮[By DukeMehdi] vless-FI 🔒
 vless://48e17fb6-5c8b-4b93-8f60-406905325fec@free.barayekhudam.ir:2023?security=reality&amp;encryption=none&amp;pbk=ISfv0pyv1bTzify5w2Ii_jFRzuA_6mXmHgjDWjImYjY&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.varzesh3.com&amp;sid=5b73d140d36e63#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://3ff60b54-f6d6-467f-9189-df1a0567c647@151.101.195.8:80?encryption=none&type=ws&host=norbert-team-free1.global.ssl.fastly.net&path=/?ed%3D2052?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪[By DukeMehdi] vless-DE 🔒
 vless://a5119970-e6a8-46c6-8fb0-23538c972444@46.224.198.130:54663?type=tcp&encryption=none&path=%2F%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20%40napsternetv20&host=www.speedtest.net&headerType=http&security=none#🇩🇪[By DukeMehdi] vless-DE 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#🇰🇼[By DukeMehdi] ss-KW 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#🏳[By DukeMehdi] ss- 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#🇻🇳[By DukeMehdi] ss-VN 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#🇮🇱[By DukeMehdi] ss-IL 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11205#🇮🇱[By DukeMehdi] ss-IL 🔒
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&amp;encryption=none&amp;pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=japan.geodema.network&amp;sid=1ed136481e0ede74#🇯🇵[By DukeMehdi] vless-JP 🔒
-vless://a6bdce65-2ec9-47e3-9814-bc281cffadcd@de.svdualvpn.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steamcommunity.com#🇩🇪[By DukeMehdi] vless-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjMzYzUzZjZlOWUzYzFi@85.239.232.127:10026#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDJmYjYwZDVjZjQwMGM2@45.82.102.245:11201#🇷🇴[By DukeMehdi] ss-RO 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.me:9443#🇫🇮[By DukeMehdi] ss-FI 🔒
@@ -39,7 +51,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMGZiMjgwNWVlOTMxNjkx@54.37.77.214:11201#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA@64.31.63.92:443#🇫🇷[By DukeMehdi] ss-FR 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#🇨🇦[By DukeMehdi] ss-CA 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYjMzZmU2N2EzMzBiM2Vh@141.95.101.9:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYjMzZmU2N2EzMzBiM2Vh@141.95.101.9:11201#🏳[By DukeMehdi] ss- 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#🇩🇪[By DukeMehdi] ss-DE 🔒
 vless://osVPN_3111052@146.103.105.233:443?security=reality&encryption=none&pbk=Z8A8Q4ZzljW2121vwEHNV6qVMnF9Z_FLULGozMOiGTE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=whatsapp.com&sid=ffffffffff#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?security=reality&encryption=none&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd88bd27db4cc661#🇷🇺[By DukeMehdi] vless-RU 🔒
@@ -47,35 +59,35 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg2YWU4ZDc3M2YyNTBm@217.77.3.68:28954#🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OGY3YWVkZDhhZGRhNmZl@207.244.226.239:45995#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOTZkNmI0MmUzMDU5NWRj@15.204.28.84:11201#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#🇵🇱[By DukeMehdi] ss-PL 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#🇰🇿[By DukeMehdi] ss-KZ 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#🇵🇱[By DukeMehdi] ss-PL 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTYzZGYxYTAwMTc1OWJm@51.89.118.58:11201#🇬🇧[By DukeMehdi] ss-GB 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🇬🇧[By DukeMehdi] ss-GB 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzUwOWJhMzY3OWI5ZGY5@154.205.145.37:11201#🇵🇰[By DukeMehdi] ss-PK 🔒
-vmess://eyJhZGQiOiIyMTcuNjkuNS4zMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlYzRjMzQ5Yy1iM2M2LTRjZmYtYmU2My0wMWVhYWQxZGMwOTgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ== 🔒
+vmess://eyJhZGQiOiIyMTcuNjkuNS4zMiIsImlkIjoiZWM0YzM0OWMtYjNjNi00Y2ZmLWJlNjMtMDFlYWFkMWRjMDk4IiwibmV0IjoidGNwIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtRlIiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ== 🔒
 vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NjUzIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUZSIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ== 🔒
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#🇮🇱[By DukeMehdi] vless-IL 🔒
-vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?security=reality&encryption=none&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=b5e0cd9ca194c0a5#🇦🇲[By DukeMehdi] vless-AM 🔒
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@fr1vless.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=&fp=chrome&type=tcp&sni=fr1vless.krasivovpn.ru&sid=868419504747f6de#🇩🇪[By DukeMehdi] vless-DE 🔒
 vless://ad475ad1-e80f-4e63-89e6-4120a3387377@45.83.143.28:443?security=reality&encryption=none&pbk=WfEk0nBnQWMGXLVnQuOuL6k_nMA8CFngSpUioIclo24&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=c87aa6d3d9be1df0#🇦🇲[By DukeMehdi] vless-AM 🔒
 vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=639031180460930556.altima-amsjq.info&amp;fp=chrome&amp;type=ws&amp;host=639031180460930556.altima-amsjq.info&amp;path=/oqxdqtws&amp;packetEncoding=xudp#🇳🇱[By DukeMehdi] vless-NL 🔒
-vless://725f7cc0-af7e-40b8-e2c1-72e29bc00529@Cr7.zx-shop.ir:2096?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&encryption=none&host=Nvm.website-game.ir&type=ws&sni=Nvm.website-game.ir#🏳[By DukeMehdi] vless- 🔒
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#🇺🇸[By DukeMehdi] vless-US 🔒
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪[By DukeMehdi] ss-DE 🔒
-vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=&amp;encryption=none&amp;host=cafebazar.com&amp;headerType=http&amp;type=tcp#🇩🇪[By DukeMehdi] vless-DE 🔒
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧[By DukeMehdi] ss-GB 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYzM0Mzg2NGQ0MDY0MDUx@66.94.113.2:27115#🇺🇸[By DukeMehdi] ss-US 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201#🇴🇲[By DukeMehdi] ss-OM 🔒
 vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtU0ciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ== 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDk2YWI1NGEyMGY0ZTRl@66.94.125.222:43742#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTk4M2MwYmY1OGJjNzQ5@154.53.38.145:26409#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#🇹🇷[By DukeMehdi] ss-TR 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#🇹🇭[By DukeMehdi] ss-TH 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#🇷🇴[By DukeMehdi] ss-RO 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NmRlODIyOTJjMDM1YjQ2@57.128.110.71:45924#🇫🇷[By DukeMehdi] ss-FR 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjViYzgwOTE5YTQ4NGE1@57.129.89.142:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OWZhNTU0MWQxZDljY2Nl@141.95.104.30:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#🇧🇷[By DukeMehdi] ss-BR 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#🇦🇺[By DukeMehdi] ss-AU 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18792#🇦🇲[By DukeMehdi] ss-AM 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#🇦🇲[By DukeMehdi] ss-AM 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuR1NSdlo1SXNZY1JORHBEdE5WcmtW@178.130.46.148:47345#🇪🇪[By DukeMehdi] ss-EE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#🇭🇰[By DukeMehdi] ss-HK 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
@@ -84,10 +96,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjljYjlhZWYzMTdmMDk2@147.135.77.6:11201#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjAzMmQ5OTNkZmVjMzE4@141.95.104.145:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷[By DukeMehdi] ss-FR 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#🇫🇷[By DukeMehdi] ss-FR 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#🏳[By DukeMehdi] ss- 🔒
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#🏳[By DukeMehdi] ss- 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWMzZjkwM2U4MWQ1ZDRl@57.128.190.194:10013#🇬🇧[By DukeMehdi] ss-GB 🔒
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@nl1vless.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=nl1vless.krasivovpn.ru&sid=868419504747f6de#🇳🇱[By DukeMehdi] vless-NL 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQw@51.161.80.138:27797#🇨🇦[By DukeMehdi] ss-CA 🔒
 vless://146ea0d5-f02d-4f72-9665-04be2df345d1@185.251.89.26:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇷🇺[By DukeMehdi] vless-RU 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVlZmQ1Y2Y5ZTk0N2Fk@54.36.116.190:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
@@ -99,7 +110,6 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷[By DukeMe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYTc2ZDZmMDljMjAzYTU5@198.244.149.86:26115#🇬🇧[By DukeMehdi] ss-GB 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#🇨🇦[By DukeMehdi] ss-CA 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3@185.163.1.90:11201#🇲🇽[By DukeMehdi] ss-MX 🔒
-vless://c768b44a-3e27-5fc0-97b5-ea2dfb8cf233@84.201.152.124:443?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=ed5a06ef&pbk=PchkdI12xSsduDxpr0wu5in1PIeVHY-sudzNFifUSn4&encryption=none#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@46.151.26.175:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@88.210.6.49:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇳🇱[By DukeMehdi] vless-NL 🔒
@@ -109,42 +119,32 @@ vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@62.84.100.225:4443?security=reality
 vless://146ea0d5-f02d-4f72-9665-04be2df345d1@192.144.57.132:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇨🇿[By DukeMehdi] vless-CZ 🔒
 vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@91.142.72.101:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇷🇺[By DukeMehdi] vless-RU 🔒
 vless://dac9a640-0098-45b1-b79f-dc14efb99237@145.249.109.184:24971?security=reality&encryption=none&pbk=rKYnrR2gfzRaRoR2OjvtKu82hoj3q8hLQr1cBbFE9ww&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=c293a1a091544f6c#🇪🇸[By DukeMehdi] vless-ES 🔒
-vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#🇷🇺[By DukeMehdi] vless-RU 🔒
 vless://4ad217a5-5a96-4095-a96c-837ffc73f97c@vpn.zorixvpn.site:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://146ea0d5-f02d-4f72-9665-04be2df345d1@89.110.90.65:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇷🇺[By DukeMehdi] vless-RU 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2Y4ZDg3MGMwY2EwNGJj@147.135.78.88:11201#🇺🇸[By DukeMehdi] ss-US 🔒
-vless://e343471a-aad3-40da-9dea-72cc8c7dce5f@69.84.182.108:443?&security=tls&fp=chrome&sni=pq-us4.globals-download.com&type=ws&headerType=none&host=pq-us4.globals-download.com&path=%2Fpq%2Fus4#🇺🇸[By DukeMehdi] vless-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#🇩🇪[By DukeMehdi] ss-DE 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg@37.221.125.38:443#🏳[By DukeMehdi] ss- 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTM3YmEzZTRmNGNkYTBj@144.126.158.195:12053#🇺🇸[By DukeMehdi] ss-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#🇬🇧[By DukeMehdi] ss-GB 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#🇬🇧[By DukeMehdi] ss-GB 🔒
 vless://447c45cd-ade0-4bfe-90a0-3e581829f741@178.17.53.28:47539?security=reality&encryption=none&pbk=uapzi5mhLkADHuak0eXEKq9vIl2A8IGrMhjdIG-tn3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=82a55f31981ea6be#🇫🇮[By DukeMehdi] vless-FI 🔒
 vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@80.90.186.91:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇷🇺[By DukeMehdi] vless-RU 🔒
 vless://telegram-turboo-server@server.ultra-irancell.com:80?encryption=none&amp;type=ws&amp;host=jone-turboo-server.com&amp;path=/ed%3D2056&amp;packetEncoding=xudp#🇩🇪[By DukeMehdi] vless-DE 🔒
-vmess://eyJhZGQiOiJ6dWxhLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsImlkIjoibmFzbmV0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9uYXNuZXRcL2Nkbj9lZD0yNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9 🔒
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsImFkZCI6Inp1bGEuaXIiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE2Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0= 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3azZsQTRYUm5FV2ZFbkRyZG0wTlk2@145.249.109.144:15544#🇪🇸[By DukeMehdi] ss-ES 🔒
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.vkvideo.ru&amp;sid=6354585c37827955#🇷🇺[By DukeMehdi] vless-RU 🔒
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.vkvideo.ru&amp;sid=6354585c37827955#🏳[By DukeMehdi] vless- 🔒
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@de1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#🇩🇪[By DukeMehdi] vless-DE 🔒
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=868419504747f6de#🇷🇴[By DukeMehdi] vless-RO 🔒
 vmess://eyJhZGQiOiJwbDM3LnNhbGFyNDA0MC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJtaS5pciIsImlkIjoiYTFlNmU0ZDItOTY1YS00ZjIzLWRlOGQtZTNmM2JjM2FjYmU5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjQ0NzAxIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ== 🔒
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@us.sepshoping.de:1121?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net#🇺🇸[By DukeMehdi] vless-US 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyeWVtVzcwYmM3ZWp6U2ptWWhGWmF2@193.43.104.64:32941#🇩🇪[By DukeMehdi] ss-DE 🔒
-vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#🇨🇭[By DukeMehdi] vless-CH 🔒
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vk.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ookcdn.ru#🇺🇸[By DukeMehdi] vless-US 🔒
 vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@de31.abvpn.ru:443?security=reality&amp;encryption=none&amp;pbk=Wg_prcp8fAsUrveCKVqBsk_8mWuKurQb-0N3H1e35mk&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=cdnjs.cloudflare.com&amp;sid=bb3b14db#🇩🇪[By DukeMehdi] vless-DE 🔒
 vmess://eyJhZGQiOiJuMTc2MTIxNDkwOC53cGcyNy54eXoiLCJhaWQiOjAsImhvc3QiOiJuMTc2MTIxNDkwOC53cGcyNy54eXoiLCJpZCI6IjM1MTRhOTNmLWJiMjYtNDQ0Mi04Zjk5LTk3MWIyZmYzMzg4YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9 🔒
-vmess://eyJhZGQiOiJuMTc2MTIxNDkwNy43NHF4di50b3AiLCJhaWQiOiIwIiwiaG9zdCI6Im4xNzYxMjE0OTA3Ljc0cXh2LnRvcCIsImlkIjoiNGMxNzM5OWYtYzkzZC00NTI3LThhY2UtNWJkYzJmMDkwMWYzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjBbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUhLIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9 🔒
 vmess://eyJhZGQiOiJuMTc0NzYyNDI3MS5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc0NzYyNDI3MS5saWU1ZC5jeW91IiwiaWQiOiJhMjMxYmE4Yi04ODcxLTQxNmMtODEzYi1lMjI0MGJjNjZiYjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0= 🔒
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh41v3.carwashipdir.shop&fp=chrome&insecure=1&allowInsecure=1&type=grpc#🇺🇸[By DukeMehdi] vless-US 🔒
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@🇵🇱[By DukeMehdi] vless-PL:7242?encryption=none&flow=xtls-rprx-vision&security=reality&sni=modily.net&fp=firefox&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&type=tcp&headerType=none#🇵🇱[By DukeMehdi] vless-PL 🔒
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&amp%3Bsecurity=tls&amp%3Bhost=www.calmlunch.com&amp%3Btype=ws&amp%3Bsni=www.calmlunch.com#🇫🇷[By DukeMehdi] trojan-FR 🔒
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇫🇷[By DukeMehdi] trojan-FR 🔒
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?security=tls&sni=free-de-3.undef.network#🇩🇪[By DukeMehdi] trojan-DE 🔒
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@fi.sepshoping.de:8016?security=&amp;encryption=none&amp;host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;headerType=http&amp;type=tcp#🏳[By DukeMehdi] vless- 🔒
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@87.236.38.210:8016?security=&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#🇩🇪[By DukeMehdi] vless-DE 🔒
 vless://ac825282-e2bc-45b1-a7ee-aa8f5effc4d7@62.84.102.162:443?security=reality&encryption=none&pbk=taQhPfbUTkiTOyIekh1ucvlnswJTwFRmyD8UhaX4u1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=c9782e#🇳🇱[By DukeMehdi] vless-NL 🔒
 vless://aa497581-d3ac-4602-8512-7747ca016eac@62.60.176.189:443?security=reality&encryption=none&pbk=1_viA0ySJICqaFUpADZ4ZTBfntNMYvRJIVHCWVNdNCA&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=4969fd2d5085d535#🇺🇸[By DukeMehdi] vless-US 🔒
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪[By DukeMehdi] ss-IE 🔒
-vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?security=reality&amp;encryption=none&amp;pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=e08a28#🇪🇸[By DukeMehdi] vless-ES 🔒
-vmess://eyJhZGQiOiIxNjIuMTkuMjQ4LjIzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVUIiwiaWQiOiJlZGUyN2E3OS1iMDM5LTQ5MGItOTMyYy00OTVkZTRiNjg4ODAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0= 🔒
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tbankru.outlinekeys.net&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#🇪🇪[By DukeMehdi] vless-EE 🔒
-trojan://BxceQaOe@58.152.25.86:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🏳[By DukeMehdi] trojan- 🔒
