@@ -4108,6 +4108,7 @@ trojan://slch2024@104.18.3.108:8443?allowInsecure=1&sni=🔒 [By DukeMehdi]&type
 trojan://slch2024@104.18.3.108:8443?security=tls&sni=🔒 [By DukeMehdi]&type=ws&host=ocost-dy.wmlefl.cc&path=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://slch2024@104.18.3.108:8443?type=ws&sni=🔒 [By DukeMehdi]&path=🔒 [By DukeMehdi]&host=ocost-dy.wmlefl.cc # 🔒 [By DukeMehdi]
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106/?type=tcp&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=🔒 [By DukeMehdi] trojan-NZ # 🔒 [By DukeMehdi]
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&path=🔒 [By DukeMehdi]&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://tb5PqFczGQ@104.16.83.43:443/?type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=🔒 [By DukeMehdi]&security=tls&sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
 trojan://telegram-id-directvpn@13.36.139.6:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=🔒 [By DukeMehdi] # 🔒 [By DukeMehdi]
