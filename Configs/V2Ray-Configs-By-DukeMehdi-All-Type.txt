@@ -248,7 +248,6 @@ ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdG
 trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?security=tls&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=speedtest.net # [ By DukeMehdi ] 🔒
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://09007daa-a345-4ec2-b3e8-37068855f877@green2.cdntencentmusic.com:31103 # [ By DukeMehdi ] 🔒
-trojan://09007daa-a345-4ec2-b3e8-37068855f877@green2.cdntencentmusic.com:31103?allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://0b78da11-9e69-4bd6-a95f-27ca81c43d0d@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?security=tls&host=speedtest.net&type=ws # [ By DukeMehdi ] 🔒
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bamp%3Bamp%3Bhost=speedtest.net # [ By DukeMehdi ] 🔒
@@ -265,6 +264,7 @@ trojan://4843e94d205f3893f588255a591abe94@23.170.49.110:5076 # [ By DukeMehdi ] 
 trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443 # [ By DukeMehdi ] 🔒
 trojan://4843e94d205f3893f588255a591abe94@58.152.18.247:443 # [ By DukeMehdi ] 🔒
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls # [ By DukeMehdi ] 🔒
+trojan://655a3e72-788e-41c1-8c23-6032490c64a0@green2.cdntencentmusic.com:31101?allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://7bdf5985-65ff-4f56-935a-2ff73cf4bf11@xiaozhu1.kkieo555.cn:41277?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.105.192:1933?allowInsecure=0 # [ By DukeMehdi ] 🔒
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544 # [ By DukeMehdi ] 🔒
@@ -278,7 +278,6 @@ trojan://869e9086806483ca4744a4cb0f3d6e16@58.152.18.124:443?allowInsecure=0 # [ 
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&type=ws # [ By DukeMehdi ] 🔒
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?security=tls&type=ws # [ By DukeMehdi ] 🔒
 trojan://89str_hbFiA4Re5VKxLYnDPgy@149.248.50.17:15349?security=tls&host=speedtest.net&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
-trojan://98edcf90-4337-47e3-b389-7923f67aefc7@green2.cdntencentmusic.com:35502?allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://A4u^p(_UR*F6@irancell.buzzmuzzpanel.online:443?security=tls&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=speedtest.net # [ By DukeMehdi ] 🔒
 trojan://BxceQaOe@13.114.104.131:26378 # [ By DukeMehdi ] 🔒
 trojan://BxceQaOe@13.114.104.131:2773 # [ By DukeMehdi ] 🔒
@@ -317,6 +316,7 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerT
 trojan://b35cd4e8-e193-4bbd-9084-91d73d2353f0@i.badboys.gq:443?mode=multi&security=tls&type=grpc&serviceName=o8q9OHerR9LI4jhrTESVxpF0X-trgrpc&security=tls&encryption=none&host=speedtest.net&type=ws&alpn=http/1.1&headerType=none&type=tcp&headerType=none&type=tcp&security=tls&encryption=none&type=grpc&serviceName=o8q9OHerR9LI4jhrTESVxpF0X-vlgrpc&security=tls&host=speedtest.net&type=ws&security=tls&encryption=none&type=grpc&serviceName=dagh.mojavadd.space&security=tls&type=grpc&serviceName=o8q9OHerR9LI4jhrTESVxpF0X-trgrpc # [ By DukeMehdi ] 🔒
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bamp%3Bamp%3Bhost=speedtest.net # [ By DukeMehdi ] 🔒
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?allowInsecure=0 # [ By DukeMehdi ] 🔒
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&allowInsecure=1&type=tcp&headerType=none # [ By DukeMehdi ] 🔒
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790 # [ By DukeMehdi ] 🔒
 trojan://caonima2022@ml.xxass.ml:443 # [ By DukeMehdi ] 🔒
@@ -363,10 +363,9 @@ trojan://telegram-id-v2rayvpnchannel@3.123.120.25:22223?security=tls&amp%3Balpn=
 trojan://trojan@162.159.152.4:8443?security=tls&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 trojan://trojan@top.imlast2.com:443?security=tls&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 trojan://vpn_connects@comando.fisifisi.com:80?type=ws&amp%3Bhost=speedtest.net&amp%3Bamp%3Bsecurity=none # [ By DukeMehdi ] 🔒
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0 # [ By DukeMehdi ] 🔒
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994/?type=tcp&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?allowInsecure=0 # [ By DukeMehdi ] 🔒
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://xl87654321@stonebreak.online:443?security=tls&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=tcp&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
@@ -4072,7 +4071,6 @@ vmess://{"v":"2","ps":">>@v2line::US","add":"209.126.84.189","port":"443","id":"
 vmess://{"v":"2","ps":">>@v2nodes::GB::GB::GB::GB","add":"cf-proxy.202507.xyz","port":"443","type":"none","id":"fa8c811b-7bd3-4c04-b9dd-c701698f1efd","aid":"0","net":"ws","path":"/","host":"gb.202507.xyz","tls":"tls","skip-cert-verify":true} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":">>@v2ray_configs_pool::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX::XX","add":"45.89.52.207","port":"39651","id":"ac4c12c5-45f2-4398-a718-9983941ede2b","aid":"0","scy":"auto","net":"tcp","type":"","tls":"","alpn":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"t.me/v2Line | Free | 3191 | Canada","add":"158.51.121.63","port":"443","id":"03fcc618-b93d-6796-6aed-8a38c975d581","aid":"0","scy":"auto","net":"ws","type":"---","host":"","path":"linkvws","tls":"tls","sni":"seribus.org","alpn":"","fp":""} # [ By DukeMehdi ] 🔒
-vmess://{"v":"2","ps":"亚太地区 V2CROSS.COM","add":"103.181.165.145","port":"59952","type":"none","id":"418048af-a293-4b99-9b0c-98ca3580dd24","aid":"64","net":"tcp","path":"/","host":"","tls":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"未知","add":"yichueng.org","port":"443","id":"03fcc618-b93d-6796-6aed-8a38c975d581","aid":"0","scy":"auto","net":"ws","type":"---","host":"yichueng.org","path":"linkvws","tls":"tls","sni":"yichueng.org","test_name":"未知"} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"未知12","add":"https://github.com/ALIILAPRO/v2rayNG-Config","port":"433","id":"Free","aid":"0","scy":"chacha20-poly1305","net":"tcp","type":"none","host":"","path":"","tls":"","sni":"","test_name":"12"} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"未知16 12.2MB/s","add":"217.69.5.32","port":"443","id":"ec4c349c-b3c6-4cff-be63-01eaad1dc098","aid":"0","scy":"auto","net":"tcp","type":"","host":"","path":"","tls":"","sni":"","test_name":"16"} # [ By DukeMehdi ] 🔒
@@ -4090,11 +4088,10 @@ vmess://{"v":"2","ps":"🇦🇺 VMESS-未知>澳大利亚-NF解锁澳大利亚�
 vmess://{"v":"2","ps":"🇨🇦 VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGPT-TikTok-YouTube-15.235.41.200:80","add":"15.235.41.200","port":"80","type":"none","id":"58fe1542-5290-40ad-815a-77707a81afe5","aid":"0","net":"ws","path":"/IOebhLMhl1CTbFHbL95myfRX2","host":"","tls":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇨🇦 VMESS-加拿大-NF解锁加拿大地区非自制剧-ChatGPT-TikTok-YouTube-51.79.102.253:80","add":"51.79.102.253","port":"80","type":"none","id":"58fe1542-5290-40ad-815a-77707a81afe5","aid":"0","net":"ws","path":"/IOebhLMhl1CTbFHbL95myfRX2","host":"","tls":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇩🇪 VMESS-未知>德国-NF解锁印度地区非自制剧-ChatGPT-TikTok-YouTube-547.rtxconfigz.shop:8080","add":"547.rtxconfigz.shop","port":"8080","type":"none","id":"44e57485-eccc-46ef-808f-cd17ac810018","aid":"0","net":"ws","path":"/@Malinda6104","host":"547.rtxconfigz.shop","tls":""} # [ By DukeMehdi ] 🔒
-vmess://{"v":"2","ps":"🇬🇧 英国 V2CROSS.COM","add":"82.198.246.97","port":"180","type":"none","id":"d13fc2f5-3e05-4795-81eb-44143a09e552","aid":"0","net":"tcp","path":"/","host":"","tls":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇭🇰 HK | VMESS | @freev2rays  # [ By DukeMehdi ] 🔒
+vmess://{"v":"2","ps":"🇭🇰 香港 阿里云","add":"n1761214912.wpg27.xyz","port":"443","type":"none","id":"4f86a909-836d-4643-b650-d812144a1fa9","aid":"0","net":"ws","path":"/","host":"n1761214912.wpg27.xyz","tls":"tls"} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇭🇰 香港|@ripaojiedian","add":"v10.hdacd.com","port":"30807","type":"none","id":"cbb3f877-d1fb-344c-87a9-d153bffd5484","aid":"2","net":"tcp","path":"/","host":"v10.hdacd.com","tls":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇯🇵 VMESS-美国>日本-NF解锁日本地区非自制剧-ChatGPT-YouTube-t1.620720.xyz:8443","add":"t1.620720.xyz","port":"8443","type":"none","id":"516d8a7a-3f0b-41d3-bad0-246116381516","aid":"0","net":"ws","path":"/","host":"t1.620720.xyz","tls":"tls"} # [ By DukeMehdi ] 🔒
-vmess://{"v":"2","ps":"🇯🇵 日本 V2CROSS.COM","add":"n1747624271.lie5d.cyou","port":"443","type":"none","id":"a231ba8b-8871-416c-813b-e2240bc66bb2","aid":"0","net":"ws","path":"/","host":"n1747624271.lie5d.cyou","tls":"tls"} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇺🇸 US | VMESS | @freev2rays  # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇺🇸 US | VMESS | @v2ray4win  # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇺🇸 US | VMESS | @v2rayngconfig  # [ By DukeMehdi ] 🔒
@@ -4108,6 +4105,7 @@ vmess://{"v":"2","ps":"🇺🇸 VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-Yo
 vmess://{"v":"2","ps":"🇺🇸 VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-cg1c07.waimaojd.com:443","add":"cg1c07.waimaojd.com","port":"443","type":"none","id":"be8e3136-b874-4085-bd23-ec3699300490","aid":"0","net":"ws","path":"/api/v1/graphql","host":"cg1c07.waimaojd.com","tls":"tls"} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇺🇸 VMESS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-v2ray.codefyinc.com:443","add":"v2ray.codefyinc.com","port":"443","type":"none","id":"2c981164-9b93-4bca-94ff-b78d3f8498d7","aid":"0","net":"ws","path":"/vmessws","host":"v2ray.codefyinc.com","tls":""} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇺🇸 VMESS-美国>德国-NF解锁印度地区非自制剧-ChatGPT-TikTok-YouTube-support.zoom.us:8080","add":"support.zoom.us","port":"8080","type":"none","id":"44e57485-eccc-46ef-808f-cd17ac810018","aid":"0","net":"ws","path":"/@Malinda6104","host":"support.zoom.us","tls":""} # [ By DukeMehdi ] 🔒
+vmess://{"v":"2","ps":"🇺🇸 美国 CloudFlare节点","add":"4D41-b510-Fc35f2D7ECd7.664.qzz.io","port":"443","type":"none","id":"0507fbcd-b983-43a7-8e1d-2c561960ad4f","aid":"0","net":"ws","path":"/pyyY4ZVTyJV3vr9noOhn","host":"4D41-b510-fC35f2d7ecd7.664.qZz.io","tls":"tls"} # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇽🇽 XX | VMESS | @iranvpnet  # [ By DukeMehdi ] 🔒
 vmess://{"v":"2","ps":"🇽🇽 XX | VMESS | @proxie  # [ By DukeMehdi ] 🔒
 vmess://{"v":null,"ps":"@V2raysCollector 💩=👳","add":"47.251.91.241","port":42899,"id":"0925b355-2bcd-4eae-9720-d2709e4f7e36","aid":"0","scy":null,"net":"tcp","type":null,"host":"","alpn":null,"path":"/","tls":"none","sni":null,"fp":null} # [ By DukeMehdi ] 🔒
