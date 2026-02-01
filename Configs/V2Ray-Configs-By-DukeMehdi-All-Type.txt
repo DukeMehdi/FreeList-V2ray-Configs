@@ -115,7 +115,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443 # [ By DukeMehdi ] 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNEwydkM1YU1pN2UwRzA4RTlHc3R3@62.133.60.43:36456 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348 # [ By DukeMehdi ] 🔒
@@ -177,7 +176,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080 # [ By DukeMehdi ] 🔒
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080 # [ By DukeMehdi ] 🔒
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080 # [ By DukeMehdi ] 🔒
@@ -348,6 +346,7 @@ trojan://b496a865-8d64-40e1-8256-e51c8cc65826@xiaozhu1.kkieo555.cn:41273 # [ By 
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
 trojan://bdaedab6-6c89-4540-b5d5-638eba17952f@xiaozhu1.kkieo555.cn:41277 # [ By DukeMehdi ] 🔒
 trojan://bpb-trojan@94.140.0.1:443?allowInsecure=0&alpn=h2&fp=chrome&host=speedtest.net&insecure=0&security=tls&type=ws # [ By DukeMehdi ] 🔒
+trojan://bpb-trojan@94.140.0.1:443?amp%3Bsecurity=tls%3D-%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3B # [ By DukeMehdi ] 🔒
 trojan://bpb-trojan@94.140.0.1:443?security=tls&alpn=h2&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 trojan://bpb-trojan@94.140.0.1:443?security=tls&alpn=h2&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 trojan://bpb-trojan@94.140.0.1:443?security=tls&amp%3Bamp%3Bfp=chrome&amp%3Binsecure=0&amp%3BallowInsecure=0&amp%3Btype=ws&amp%3Bhost=speedtest.net&amp%3B # [ By DukeMehdi ] 🔒
@@ -449,6 +448,7 @@ trojan://telegram-id-privatevpns@13.37.74.8:22222?security=tls&amp%3Balpn=http/1
 trojan://telegram-id-privatevpns@13.50.135.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&alpn=http/1.1&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 trojan://telegram-id-privatevpns@13.53.149.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 trojan://telegram-id-privatevpns@18.159.236.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
+trojan://telegram-id-privatevpns@18.198.44.254:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3B # [ By DukeMehdi ] 🔒
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 trojan://telegram-id-v2rayvpnchannel@13.37.74.8:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3B # [ By DukeMehdi ] 🔒
 trojan://trojan@top.imlast2.com:443?security=tls&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
@@ -487,6 +487,7 @@ vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.74.8:22224?type=ws&amp%3Bsecurity=tls&amp%3Bamp%3B # [ By DukeMehdi ] 🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.161.63:22224?type=ws&security=tls # [ By DukeMehdi ] 🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.236.249:22224?type=ws&security=tls # [ By DukeMehdi ] 🔒
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.44.254:22224?type=ws&amp%3Bsecurity=tls&amp%3Bamp%3B # [ By DukeMehdi ] 🔒
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid= # [ By DukeMehdi ] 🔒
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Btype=tcp # [ By DukeMehdi ] 🔒
@@ -563,7 +564,6 @@ vless://1042c5e3-53e4-4f43-9c61-4ccfed0fbedb@s2.mainonline.link:8080?security=no
 vless://10de1810-c6b4-4c18-b4dd-42389c1d53cf@o4.tun.nodegozar.com:1717?security=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Btype=tcp # [ By DukeMehdi ] 🔒
 vless://10f54687-bc56-478c-9fdc-dc1f8cc82612@masterserver1.huqpmfood.ir:1331?mode=auto&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=qSCPbuLS9FrLTRzIbKmD3vNOnsk_ZUxmjPywZXeM_Co&fp=chrome&type=xhttp&sid=077dc29a23d311f2 # [ By DukeMehdi ] 🔒
 vless://1110a364-4c94-42b7-84d9-085a34eabee4@cute-kittens.store:8443?security=reality&encryption=none&pbk=mfBIs4jfBLzL_gqBO0QmbzwhSqamg2heEb_uNpGu3Rc&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=ffb82d9a35846463 # [ By DukeMehdi ] 🔒
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@147.185.161.104:2096?security=tls&amp%3Bamp%3Btype=ws&amp%3Bhost=speedtest.net # [ By DukeMehdi ] 🔒
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@185.193.29.49:2096?security=tls&type=ws&headerType=&host=speedtest.net&fp=chrome&alpn=h2 # [ By DukeMehdi ] 🔒
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@ipcheck3.freedrlimit.online:2096?security=tls&type=ws&headerType=&host=speedtest.net&fp=chrome&alpn=h2 # [ By DukeMehdi ] 🔒
 vless://119b979a-41a4-4d93-8278-7b07df38ca3a@t.aiteamplus.ir:47061?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
@@ -711,7 +711,6 @@ vless://2b20b303-ad7b-4f82-894f-fc6f5c404c08@194.225.131.42:9000?security=&encry
 vless://2b20b303-ad7b-4f82-894f-fc6f5c404c08@194.225.131.42:9000?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://2b5e2b86-55b6-4571-abc1-c1dec8605725@www.zula.ir:443?amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=ws&amp%3B # [ By DukeMehdi ] 🔒
 vless://2be5bbe3-70c7-4d5f-8310-1dc249107176@81.12.33.7:711?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
-vless://2d3f9517-efe9-46fa-9440-7a7d0291fb44@ns.cloudflare.com:443?type=grpc&amp%3Bmode=gun&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Bamp%3Balpn=http/1.1 # [ By DukeMehdi ] 🔒
 vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&alpn=h2&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid= # [ By DukeMehdi ] 🔒
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80 # [ By DukeMehdi ] 🔒
 vless://2dd15683-8497-4280-9d9d-3b6f2152a95d@185.244.192.101:53?security=none&seed=2aQQcsRKHi&encryption=none&headerType=dns&type=kcp # [ By DukeMehdi ] 🔒
@@ -735,7 +734,6 @@ vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.32.47:443?amp%3Bsecurity=tls
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?encryption=none&type=ws&host=speedtest.net&security=tls&fp=chrome&alpn=http/1.1 # [ By DukeMehdi ] 🔒
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.perplexity.ai:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
-vless://2ffbe636-4bd7-4e4a-82c3-03265c293366@cfcdn.zopli.ir:443?amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3B # [ By DukeMehdi ] 🔒
 vless://3001ec8f-42a7-4785-a351-51651f817101@melli.hexogate.com:443?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?security=tls&encryption=none&host=speedtest.net&type=ws # [ By DukeMehdi ] 🔒
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?security=tls&alpn=http%2F1.1&encryption=none&host=speedtest.net&type=ws # [ By DukeMehdi ] 🔒
@@ -753,7 +751,6 @@ vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:503?security=
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sid=1d64e9805b4f9ae3 # [ By DukeMehdi ] 🔒
 vless://31c9defa-fd42-4225-822d-f99d80b24423@188.121.101.9:443?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&type=tcp&sid=6ba85179e30d4fc2 # [ By DukeMehdi ] 🔒
 vless://3200012b-b38b-4184-b503-1bad9a52b2d6@104.17.162.123:8443?amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3B # [ By DukeMehdi ] 🔒
-vless://3200012b-b38b-4184-b503-1bad9a52b2d6@104.17.162.123:8443?amp%3Btype=ws&amp%3Bhost=speedtest.net&amp%3Bamp%3Bsecurity=tls&amp%3Bamp%3Balpn=http/1.1&amp%3Bfp=chrome&amp%3BallowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://3200012b-b38b-4184-b503-1bad9a52b2d6@104.17.162.123:8443?flow=&type=ws&host=speedtest.net&security=tls&alpn=http/1.1&fp=chrome&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://3200012b-b38b-4184-b503-1bad9a52b2d6@104.17.162.123:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://3200012b-b38b-4184-b503-1bad9a52b2d6@104.17.162.123:8443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
@@ -914,6 +911,7 @@ vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@69.84.182.114:8443?security=tls&enc
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@cloudproxycdn.healingfluence.com:8443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@cloudproxycdn.healingfluence.com:8443?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ip.notomarosww.com:8443?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
+vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=1%3C/code%3E%3Cbr/%3E%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF # [ By DukeMehdi ] 🔒
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?security=tls&encryption=none&insecure=1&host=speedtest.net&fp=chrome&type=ws&allowInsecure=1 # [ By DukeMehdi ] 🔒
@@ -1112,7 +1110,6 @@ vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?security=tls&
 vless://60f71639-96ee-47df-9def-760215535dcc@198.41.223.31:443/?type=ws&encryption=none&host=speedtest.net&security=tls&fp=chrome&alpn=h2,http/1.1,h3 # [ By DukeMehdi ] 🔒
 vless://6114c870-0bca-48fc-b002-a3f0357c7e8b@fi.ftp.arvan.digikalamag.top:2020?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://616c9d7b-28db-4251-a0c1-819123902aeb@ip.hamrahto.com:443?amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3B # [ By DukeMehdi ] 🔒
-vless://626a9750-0de3-4762-b040-7149f72e422f@online2.moyanri.org:4025?type=tcp&amp%3Bsecurity=none&amp%3BheaderType=http&amp%3B # [ By DukeMehdi ] 🔒
 vless://626a9750-0de3-4762-b040-7149f72e422f@online2.moyanri.org:4025?type=tcp&security=none&headerType=http&host=speedtest.net # [ By DukeMehdi ] 🔒
 vless://6280b434-4b10-4a53-be5c-e04b932e7c6b@speedtest.org:80?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=ws # [ By DukeMehdi ] 🔒
 vless://62b0bce2-3f5f-479c-a4c8-b2f2c95fb034@Cold.hamrahto.com:443?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
@@ -1211,6 +1208,7 @@ vless://7277adf6-f0b0-40f5-a6e8-306fb51fc231@172.67.211.13:443/?type=ws&encrypti
 vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@nsop.mastermarly.ir:2096?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?security=none&encryption=none&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@144.31.128.36:443/?type=tcp&encryption=none&flow=&security=tls&allowInsecure=1&fp=chrome # [ By DukeMehdi ] 🔒
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@144.31.128.36:443?security=tls&amp%3Btype=tcp&amp%3Bamp%3Bfp=chrome&amp%3Bencryption=none # [ By DukeMehdi ] 🔒
 vless://74e024dc-c512-486c-9872-09785216e615@TUNNEL1.TORPROSPEED.IR:214?security=none&encryption=none&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://74e024dc-c512-486c-9872-09785216e615@TUNNEL2.TORPROSPEED.IR:215?security=none&encryption=none&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?security=none&encryption=none&type=ws # [ By DukeMehdi ] 🔒
@@ -1227,7 +1225,6 @@ vless://76e2a322-1c23-4c91-b2e1-40944d23fc48@www.s2pp.ir:8443?security=tls&encry
 vless://76fb76eb-7a07-48b2-8c2b-5dec9ffaa80c@discord.gg:443?amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3B # [ By DukeMehdi ] 🔒
 vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=speedtest.net&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
-vless://77466941-b026-454b-b915-94c8f89b594e@172.64.144.131:443?amp%3Bsecurity=tls&amp%3Balpn=h3%2Ch2%2Chttp/1.1&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3B # [ By DukeMehdi ] 🔒
 vless://77466941-b026-454b-b915-94c8f89b594e@172.64.144.131:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://77466941-b026-454b-b915-94c8f89b594e@172.64.144.131:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=speedtest.net&type=ws&allowInsecure=1 # [ By DukeMehdi ] 🔒
@@ -1297,7 +1294,6 @@ vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@104.17.166.123:8443?security=tls&en
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?security=tls&alpn=http/1.1&encryption=none&insecure=1&host=speedtest.net&fp=chrome&type=ws&allowInsecure=1 # [ By DukeMehdi ] 🔒
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?allowInsecure=0&alpn=http/1.1&encryption=none&fp=chrome&host=speedtest.net&insecure=0&security=tls&type=ws # [ By DukeMehdi ] 🔒
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?allowInsecure=0&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bfp=chrome&amp%3Bhost=speedtest.net&amp%3Binsecure=0&amp%3Bamp%3Bsecurity=tls&amp%3Bamp%3Btype=ws%3C/code%3E%3Cbr/%3E%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF # [ By DukeMehdi ] 🔒
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
@@ -1348,7 +1344,6 @@ vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?security=tls&al
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?security=tls&encryption=none&alpn=http/1.1&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?allowInsecure=0&alpn=http/1.1&encryption=none&fp=chrome&host=speedtest.net&insecure=0&security=tls&type=ws # [ By DukeMehdi ] 🔒
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?allowInsecure=0&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Bfp=random&amp%3Bhost=speedtest.net&amp%3Binsecure=0&amp%3Bsecurity=tls&amp%3Bamp%3Btype=ws%3C/code%3E%3Cbr/%3E%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF # [ By DukeMehdi ] 🔒
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?encryption=none&type=ws&host=speedtest.net&security=tls&fp=chrome&alpn=http/1.1 # [ By DukeMehdi ] 🔒
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=speedtest.net&fp=chrome&alpn=http/1.1 # [ By DukeMehdi ] 🔒
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?security=tls&alpn=http%2F1.1&encryption=none&host=speedtest.net&fp=random&type=ws # [ By DukeMehdi ] 🔒
@@ -1422,6 +1417,7 @@ vless://8a042ea3-b7dd-4798-ab57-38a5162b3b2e@190.93.244.3:8080/?type=httpupgrade
 vless://8a07740f-b932-4372-a3a2-ed91f184cd33@chatgpt.com:443?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://8a20ecfe-6a72-4e88-aa2c-65a9e43a8512@www.speedtest.net:8880?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=httpupgrade # [ By DukeMehdi ] 🔒
 vless://8a7c781d-8f4f-42d4-8704-fb642cb9a4d2@ru.storenet.store:1159?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
+vless://8b5d2b70-941d-4b14-a36b-14a1ba85b81a@104.18.32.47:2096?encryption=none&amp%3Btype=ws&amp%3Bamp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Bamp%3Balpn=h2%2Chttp/1.1 # [ By DukeMehdi ] 🔒
 vless://8b5d2b70-941d-4b14-a36b-14a1ba85b81a@104.18.32.47:2096?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?security=none&encryption=none&host=speedtest.net&type=httpupgrade # [ By DukeMehdi ] 🔒
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&encryption=none&type=ws # [ By DukeMehdi ] 🔒
@@ -1487,7 +1483,6 @@ vless://95635fc6-3fe8-40f5-bb7b-a5ed8e83efb2@customers.tele-shop-too.studio:44?s
 vless://956e534d-08b0-4e2f-b6a3-07cf232fb0bf@fr.multi-hk.pro:30291?security=none&encryption=none&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://9594c0bc-ad82-4fb7-8f99-a922d9dfc3b2@Test.vmessorg.com:1567?encryption=none&type=ws&host=speedtest.net&security=none # [ By DukeMehdi ] 🔒
 vless://959a00e5-7a82-41fc-a2f5-0f9b7292ae50@54.171.113.7:443?security=reality&fp=chrome&pbk=ATFTnlzA9sZIv55Hv1Vv-TGBONx5HeuXdWQH08XQumM&sid=fd1126f3&spx=/&type=tcp&encryption=none # [ By DukeMehdi ] 🔒
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Btype=ws&amp%3B # [ By DukeMehdi ] 🔒
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.144:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&type=grpc&serviceName=UpdateService&sid=6da16b1335651b38 # [ By DukeMehdi ] 🔒
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=00684d2eae2cdd16 # [ By DukeMehdi ] 🔒
 vless://95dfc73f-00f7-49f0-ba1b-a14fd56c9a3e@v2shop26.bing-net.com:4926?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
@@ -1564,14 +1559,12 @@ vless://Telegram-VPNCUSTOMIZE@hajlab.ucdavis.edu:443?amp%3Bsecurity=tls&amp%3Ben
 vless://VIP_FRAGMENT_V2RAY@fast.imsoon.net:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://VPNCUSTOMIZE@188.114.98.224:2095?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=ws # [ By DukeMehdi ] 🔒
 vless://VPNCUSTOMIZE@190.93.247.155:8080?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=ws # [ By DukeMehdi ] 🔒
-vless://a0011204-1bd7-489b-b120-eeeab41b6e59@m1.designister.com:443?encryption=none&amp%3Btype=tcp&amp%3BheaderType=none&amp%3Bsecurity=reality&amp%3Bfp=random&amp%3Bamp%3Bpbk=HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE&amp%3Bsid=d6a146d7704f14&amp%3Bspx=/qNJj3JzQPAcsXFw # [ By DukeMehdi ] 🔒
 vless://a04be978-3b21-42cf-a80c-4832894d26f0@shahed2.novintecc.org:8080?type=ws&amp%3Bamp%3Bhost=speedtest.net&amp%3Bsecurity=none # [ By DukeMehdi ] 🔒
 vless://a0e2bbf8-fa37-4f41-b6e2-26a855a71fa8@104.18.32.47:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=1&host=speedtest.net&fp=chrome&type=xhttp&allowInsecure=1 # [ By DukeMehdi ] 🔒
 vless://a0e2bbf8-fa37-4f41-b6e2-26a855a71fa8@chatgpt.com:443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=1&host=speedtest.net&fp=chrome&type=xhttp&allowInsecure=1 # [ By DukeMehdi ] 🔒
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&allowInsecure=1&fp=chrome&type=ws&host=speedtest.net&encryption=none # [ By DukeMehdi ] 🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@159.112.235.222:443?security=tls&type=ws # [ By DukeMehdi ] 🔒
 vless://a15ecaa3-1f71-491a-83db-faa289d50486@free2.lithub.ir:200?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws # [ By DukeMehdi ] 🔒
-vless://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&amp%3Btype=tcp&amp%3Bsecurity=reality&amp%3Bfp=firefox&amp%3Bamp%3Bpbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic # [ By DukeMehdi ] 🔒
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&host=speedtest.net&headerType=none&fp=chrome&type=tcp # [ By DukeMehdi ] 🔒
 vless://a2368c08-527f-4af6-855a-1dc6e42fad35@188.114.98.0:2086?security=none&allowInsecure=0&encryption=none&type=httpupgrade # [ By DukeMehdi ] 🔒
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By DukeMehdi ] 🔒
@@ -1643,7 +1636,6 @@ vless://acf6d4bf-dfc8-4920-a064-9891d4129bb8@172.66.156.81:80?amp%3Bsecurity=non
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://ad8aa9eb-7120-4953-a877-e7206f5a7c3c@188.114.99.99:2096/?type=grpc&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Balpn=http/1.1&amp%3B # [ By DukeMehdi ] 🔒
 vless://ad96f4f4-0ca5-4fa1-b547-a72e642c0614@german3.activevps3.in:33015?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
-vless://adf6647f-5c84-4091-ad38-aa77994b627f@server1.kyra-server.ir:16748?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp # [ By DukeMehdi ] 🔒
 vless://admib@8.218.230.193:80?security=none&seed=@rootface telegram 👑 lets hack myself.&encryption=none&headerType=none&type=kcp # [ By DukeMehdi ] 🔒
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&allowInsecure=1&fp=chrome&type=ws&host=speedtest.net&encryption=none # [ By DukeMehdi ] 🔒
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
@@ -1687,6 +1679,7 @@ vless://b64c44c3-7847-441b-86bb-b706e188a23a@158.160.198.23:8443?encryption=none
 vless://b64c44c3-7847-441b-86bb-b706e188a23a@212.233.95.237:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By DukeMehdi ] 🔒
 vless://b6effac4-2883-47ff-8325-93d0a3d75c22@italy.aparat-movies-download.ir:42538?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://b734e360-db57-4703-9afa-d25db7307f2b@154.16.16.82:41097?encryption=none&security=none&fp=chrome&type=tcp&headerType=none # [ By DukeMehdi ] 🔒
+vless://b78127d1-3255-4274-ba2a-fa1820392402@ninja.thegameuhb.ir:1338?security=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Btype=tcp # [ By DukeMehdi ] 🔒
 vless://b89696d2-68ec-4812-bd95-a8f017ad8b4b@new.cdn.torprospeed.ir:2087?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://b8d3105d-e282-45ba-e39d-a0bce821c4b1@91.107.148.117:8443?security=none&encryption=none&seed=L2Ebgtp7HB&headerType=none&type=kcp # [ By DukeMehdi ] 🔒
 vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&amp%3Bamp%3Bhost=speedtest.net&amp%3BheaderType=http # [ By DukeMehdi ] 🔒
@@ -1716,7 +1709,6 @@ vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443/?type=tcp&encryp
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn6.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@secdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@trcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&allowInsecure=1 # [ By DukeMehdi ] 🔒
-vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443/?type=tcp&amp%3Bsecurity=reality&amp%3Bpbk=0O2wxSFr76Y9Sp2y5Bc1shI5yA1rkp1zKHZbkKsOE3E&amp%3Bfp=firefox&amp%3Bamp%3Bsid=28e21203&amp%3Bspx=/&amp%3Bflow=xtls-rprx-vision # [ By DukeMehdi ] 🔒
 vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.145.38:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.145.38:8443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By DukeMehdi ] 🔒
 vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.145.38:8443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws&note=@freeOnlineVPN # [ By DukeMehdi ] 🔒
@@ -1772,8 +1764,10 @@ vless://c2cc02da-c44f-4096-aaf9-3c1d05670b03@87.248.154.133:110?encryption=none&
 vless://c2cc02da-c44f-4096-aaf9-3c1d05670b03@dlbot.oiut.ir:110?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none # [ By DukeMehdi ] 🔒
 vless://c2ec2137-b04c-49f2-99d8-209ba906ff57@tun.grootvip.eu:55808?security=none&encryption=none&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
 vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.kr.f2zone.ir:47880?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
+vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?encryption=none&amp%3Btype=tcp&amp%3BheaderType=http&amp%3Bhost=speedtest.net&amp%3Bsecurity=none # [ By DukeMehdi ] 🔒
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@ger2.panbehpanel.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://c3c40506-3702-4d03-a602-9a7d1f39aef1@kw.whaletm2.site:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
+vless://c41c4da1-833f-4711-c677-06f2c7f634a8@asia10.novahomedesigntips.com:10105?security=none&amp%3Bencryption=none&amp%3Btype=ws%3C/code%3E%3Cbr/%3E%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF # [ By DukeMehdi ] 🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.6.178:444?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By DukeMehdi ] 🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:444?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&fp=chrome&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By DukeMehdi ] 🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By DukeMehdi ] 🔒
@@ -1781,6 +1775,7 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?encryption=none&t
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By DukeMehdi ] 🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By DukeMehdi ] 🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?mode=gun&security=reality&encryption=none&authority=mmmm&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sid=0512567389abcdef # [ By DukeMehdi ] 🔒
+vless://c557cadc-0ca5-46e8-89f6-bec11efe376a@104.17.83.58:80?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=ws # [ By DukeMehdi ] 🔒
 vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By DukeMehdi ] 🔒
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?security=none&encryption=none&host=speedtest.net&type=httpupgrade # [ By DukeMehdi ] 🔒
 vless://c6382fd1-c704-49b6-95e6-04e608f265b4@mcivpnbot.md-teach.com:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1,h3&insecure=0&allowInsecure=0&type=ws&host=speedtest.net # [ By DukeMehdi ] 🔒
@@ -1823,6 +1818,7 @@ vless://ca5ab635-fbaa-4ff2-8283-3954b92ae477@93.115.25.42:8443?security=reality&
 vless://ca9b2197-3ef3-480f-97e3-3c2450f91e42@192.200.160.12:443?mode=auto&security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=xhttp&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://caaabbc-bcaa-baca-dabc-acbabccaabbc@127.0.0.1:2080?security=tls&type=tcp # [ By DukeMehdi ] 🔒
 vless://cb33f36c-b531-4318-9be3-568e8d6c56c7@149.115.110.173:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid= # [ By DukeMehdi ] 🔒
+vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=httpupgrade # [ By DukeMehdi ] 🔒
 vless://cb5a29be-93ac-4743-e294-ec022c167e0a@45.85.118.1:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName= # [ By DukeMehdi ] 🔒
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.web3.name.ng:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=speedtest.net&fp=chrome&alpn=h2,h3 # [ By DukeMehdi ] 🔒
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.web3.name.ng:8443?security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=speedtest.net&fp=firefox&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
@@ -1880,7 +1876,6 @@ vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?encryption=none&s
 vless://d95098f1-ea8e-473c-b110-050d1d40f9d7@sv5.tsteam99.top:60005?security=none&type=tcp&headerType=http&host=speedtest.net # [ By DukeMehdi ] 🔒
 vless://d9c4d8a1-f6a6-4cb8-b0b5-31d218ec3bce@185.146.173.58:8080?type=ws&amp%3Bamp%3Bhost=speedtest.net&amp%3Bsecurity=none # [ By DukeMehdi ] 🔒
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.111.42:443?security=tls&type=ws&host=speedtest.net # [ By DukeMehdi ] 🔒
-vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&amp%3Bamp%3Bsecurity=tls&amp%3Balpn=h2&amp%3Bencryption=none&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3B # [ By DukeMehdi ] 🔒
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&security=tls&alpn=h2&encryption=none&host=speedtest.net&fp=chrome&type=xhttp # [ By DukeMehdi ] 🔒
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&security=tls&alpn=h2&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=xhttp&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?security=tls&allowInsecure=0&encryption=none&type=xhttp&fp=chrome&mode=auto&alpn=h2 # [ By DukeMehdi ] 🔒
@@ -1889,6 +1884,7 @@ vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&s
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?security=tls&encryption=none&alpn=h2&headerType=none&fp=chrome&type=tcp # [ By DukeMehdi ] 🔒
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&host=speedtest.net&headerType=http&security=none # [ By DukeMehdi ] 🔒
 vless://da95628c-3091-4a88-8d94-9d9c9cd8bb3d@publ.devpirate.baby:49680?encryption=none&security=none&type=tcp&headerType=none # [ By DukeMehdi ] 🔒
+vless://dac75f7c-0cd7-414f-ad1f-53c354fb31cf@104.16.11.133:80?security=none&amp%3Btype=ws&amp%3Bhost=speedtest.net&amp%3B # [ By DukeMehdi ] 🔒
 vless://dac75f7c-0cd7-414f-ad1f-53c354fb31cf@104.16.11.133:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By DukeMehdi ] 🔒
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.102:8443?encryption=none&security=reality&fp=chrome&pbk=YroB2r6MeCXtjqqVx5gr45KTPCJF_kk2n0yqbHhEQSE&sid=743952dfbeb3&type=xhttp&mode=auto # [ By DukeMehdi ] 🔒
 vless://db5a8d71-b3f3-4e5c-a2a9-e7f78c9d141c@185.146.173.185:2095?amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3Btype=ws # [ By DukeMehdi ] 🔒
@@ -2135,6 +2131,7 @@ vless://f9e6127c-c09f-4f04-b90b-2139a0ae8171@172.64.145.38:8443?security=tls&alp
 vless://fa48198a-f51d-4a53-fbd3-bcfd4d1b48e1@95.217.137.22:31772?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By DukeMehdi ] 🔒
 vless://fa84d74e-f7ee-43d9-8198-127329e0da8d@cff.digishopcenter.ir:2053?security=tls&encryption=none&insecure=0&host=speedtest.net&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://fa84d74e-f7ee-43d9-8198-127329e0da8d@cff.digishopcenter.ir:2053?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=speedtest.net&type=ws&allowInsecure=0 # [ By DukeMehdi ] 🔒
+vless://fa84d74e-f7ee-43d9-8198-127329e0da8d@cff.digishopcenter.ir:443?amp%3Bsecurity=tls&amp%3Balpn=h3%2Ch2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=speedtest.net&amp%3Bfp=chrome&amp%3Btype=httpupgrade&amp%3BallowInsecure=0&amp%3B # [ By DukeMehdi ] 🔒
 vless://fa84d74e-f7ee-43d9-8198-127329e0da8d@cff.digishopcenter.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=httpupgrade&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://fa84d74e-f7ee-43d9-8198-127329e0da8d@cff.digishopcenter.ir:443?security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=httpupgrade&allowInsecure=0 # [ By DukeMehdi ] 🔒
 vless://fa97f362-b797-4d1d-bf79-08a355290f4c@de-cip-02.kangavarserver.com:38379?security=none&encryption=none&headerType=none&type=tcp # [ By DukeMehdi ] 🔒
@@ -2187,6 +2184,7 @@ vless://nasnet@162.19.10.99:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=non
 vless://nasnet@162.19.10.99:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision # [ By DukeMehdi ] 🔒
 vless://nasnet@digitalocean.com:8443?mode=auto&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1 # [ By DukeMehdi ] 🔒
 vless://nasnet@tgju.org:2053?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=httpupgrade&allowInsecure=0 # [ By DukeMehdi ] 🔒
+vless://qeshmserver@151.101.3.8:80?type=xhttp&amp%3Bmode=auto&amp%3Bhost=speedtest.net&amp%3Bsecurity=none # [ By DukeMehdi ] 🔒
 vless://rootface-@pwn1337-telegram@[::ffff:9872:c066]:80?security=none&encryption=none&type=ws # [ By DukeMehdi ] 🔒
 vless://rootface-TELEGRAM2@[0:0:0:0:0:ffff:2fef:98a9]:2086?security=none&seed=rootface king of hell telegram @rootface 💀&encryption=none&headerType=none&type=kcp # [ By DukeMehdi ] 🔒
 vless://rootface-TELEGRAM3@[::ffff:2fef:98a9]:2059?security=none&seed=/ @rootface telegram, send thanks to me&encryption=none&headerType=none&type=kcp # [ By DukeMehdi ] 🔒
@@ -3045,27 +3043,27 @@ vmess://{"add":"47.251.91.241","aid":"0","alpn":"","fp":"","host":"","id":"0925b
 vmess://{"add":"47.83.18.10","aid":"0","alpn":"","fp":"","host":"","id":"176bf1dd-647f-4c09-892e-5f9223dc8617","net":"ws","path":"/arki?ed\u003d2048","port":"36968","ps":"🇭🇰 Hong Kong","scy":"auto","sni":"","tls":"","type":"---","v":"2"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"5.161.156.196","aid":"0","alpn":"","host":"internet.life.com.by","id":"d20e38ef-1a4d-4009-a00d-2f0d44e3c65a","net":"tcp","path":"/","port":"443","ps":"🇧🇾 BY | VMESS | @ir_netproxy  # [ By DukeMehdi ] 🔒
 vmess://{"add":"5.196.29.123","aid":"0","alpn":"","fp":"","host":"google.com","id":"112ac36f-3f53-4e26-8371-d25c028e1b9a","insecure":"0","net":"ws","path":"/","port":"2082","ps":"TM (@AZARBAYJAB1)","scy":"auto","sni":"","tls":"","type":"---","v":"2"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"12929592-a7bd-41eb-ab4d-d804f76c4ff9","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"254551f6-ec28-4938-ad0e-0aa4aa1965ec","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"27104fae-f047-4993-902a-9368d8a3e9bc","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"35f332d0-0b05-4cc6-91cb-ec0d4465055f","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"3786e67a-41eb-4b92-b31e-417e89493b93","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"3b475934-cb2a-4d96-b260-5e50cca5d430","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"4ec66d81-9565-4d8e-ae58-2bacfde95f48","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"4f3cfda3-a255-40eb-8801-71f9fffb19d6","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"54a0bf6d-f2b5-4b2a-942c-798fb129527e","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"6d600864-32da-49fd-baf4-7df051762454","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"9631096d-3032-4942-9446-bdf12665682b","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"b01d1e26-2f84-48da-88a1-1d06a77857f3","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"b2da9920-b0a7-4354-9e26-3833ab8d00d0","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"c09f13ce-2cca-49b6-ad1e-597566cc89c6","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"c50f9480-2e1d-40db-9458-630e79636663","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"c6e0562f-7ad1-40fb-a255-26194b2de84a","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"e1cc26b3-df0b-477b-afb0-53659a25e978","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"e3cb685e-7840-45cb-9d64-b2028d9b635e","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"f1a513d2-c32a-49dc-8e64-d4f8a2f1e001","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
-vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"fa8f8911-2e9b-494e-9a8d-f80239ee2214","net":"ws","path":"/speedtest","port":32580,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"12929592-a7bd-41eb-ab4d-d804f76c4ff9","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"254551f6-ec28-4938-ad0e-0aa4aa1965ec","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"27104fae-f047-4993-902a-9368d8a3e9bc","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"35f332d0-0b05-4cc6-91cb-ec0d4465055f","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"3786e67a-41eb-4b92-b31e-417e89493b93","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"3b475934-cb2a-4d96-b260-5e50cca5d430","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"4ec66d81-9565-4d8e-ae58-2bacfde95f48","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"4f3cfda3-a255-40eb-8801-71f9fffb19d6","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"54a0bf6d-f2b5-4b2a-942c-798fb129527e","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"6d600864-32da-49fd-baf4-7df051762454","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"9631096d-3032-4942-9446-bdf12665682b","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"b01d1e26-2f84-48da-88a1-1d06a77857f3","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"b2da9920-b0a7-4354-9e26-3833ab8d00d0","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"c09f13ce-2cca-49b6-ad1e-597566cc89c6","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"c50f9480-2e1d-40db-9458-630e79636663","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"c6e0562f-7ad1-40fb-a255-26194b2de84a","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"e1cc26b3-df0b-477b-afb0-53659a25e978","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"e3cb685e-7840-45cb-9d64-b2028d9b635e","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"f1a513d2-c32a-49dc-8e64-d4f8a2f1e001","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"5.83.150.108","host":"imafake.locker","sni":"imafake.locker","id":"fa8f8911-2e9b-494e-9a8d-f80239ee2214","net":"ws","path":"/speedtest","port":33429,"ps":"❌Düsseldorf-GetAFreeNode.com","tls":"tls","fp":"chrome","v":2,"aid":0,"type":"none"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"51.38.64.209","aid":"0","alpn":"","fp":"","host":"","id":"7da457da-ed0f-437d-c81d-6c35885bbea3","net":"tcp","path":"","port":"44023","ps":"Channel id: @ShadowProxy66🇬🇧","scy":"auto","sni":"","tls":"","type":"none","v":"2"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"51.77.215.62","aid":"0","alpn":"","fp":"","host":"","id":"507e98ae-7922-4756-c953-34e5c573dda4","net":"tcp","path":"/","port":"40846","ps":"@ho3ino00⛔⛔⛔","scy":"auto","sni":"","tls":"","type":"http","v":"2"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"51.79.103.76","aid":"0","alpn":"","fp":"","host":"google.com","id":"58fe1542-5290-40ad-815a-77707a81afe5","net":"ws","path":"/IOebhLMhl1CTbFHbL95myfRX2","port":"80","ps":">>@oneclickvpnkeys::CA::CA::CA::CA::CA::CA::CA::CA::CA::CA::CA::CA::CA::CA","scy":"aes-128-gcm","sni":"","tls":"","type":"","v":"2"} # [ By DukeMehdi ] 🔒
@@ -3175,6 +3173,7 @@ vmess://{"add":"s1.connect.bloroxy.net","aid":"0","alpn":"","fp":"","host":"","i
 vmess://{"add":"scheretest01.sobhsepid.com","aid":"0","alpn":"","host":"scheretest01.sobhsepid.com","id":"3df270df-3e80-5315-8f4c-bcefc86de371","net":"ws","path":"/api01","port":"443","ps":"telegram @shadowlinkserverr","scy":"auto","sni":"f0c6d354-b9e0-11ed-b125-5e12220ac52a.sobhsepid.com","tls":"tls","type":"","v":"2"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"se-ls03.nb1.fr","aid":"0","alpn":"","fp":"","host":"se-ls03.nb1.fr","id":"cb7001c7-e495-41ac-b942-f25f60523414","net":"ws","path":"/clientarea","port":"64443","ps":"ConfigV2RayNG","scy":"auto","sni":"se-ls03.nb1.fr","tls":"tls","type":"","v":"2"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"serkat.org","aid":"0","alpn":"","fp":"","host":"serkat.org","id":"03fcc618-b93d-6796-6aed-8a38c975d581","net":"ws","path":"linkvws","port":"443","ps":"🇫🇷🇩🇪 OVH","scy":"auto","sni":"serkat.org","tls":"tls","type":"---","v":"2"} # [ By DukeMehdi ] 🔒
+vmess://{"add":"tehran-sms.xyz","aid":"0","alpn":"","fp":"chrome","host":"","id":"7f034e0b-0d3f-4961-92d6-1b4bdbf3cb17","net":"ws","path":"/connect/de/?ed=1024/?JOKERRVPN","port":"443","ps":"🇮🇷 IR | VMESS | @xsv2ray  # [ By DukeMehdi ] 🔒
 vmess://{"add":"tgju.org","aid":"0","alpn":"","fp":"","host":"nasnet-162191099.sharghdaily.co","id":"nasnet","insecure":"0","net":"ws","path":"/nasnet/cdn?ed=2560","port":"8080","ps":">>@v2nodes::FR","scy":"auto","sni":"","tls":"","type":"---","v":"2","skip-cert-verify":true} # [ By DukeMehdi ] 🔒
 vmess://{"add":"tgju.org","aid":"0","alpn":"","fp":"","host":"nasnet-162191099.sharghdaily.co","id":"nasnet","insecure":"0","net":"ws","path":"/nasnet/cdn?ed\u003d2560","port":"8080","ps":"@KIA_NET🦜همرا--7","scy":"auto","sni":"","tls":"","type":"---","v":"2"} # [ By DukeMehdi ] 🔒
 vmess://{"add":"tgju.org","aid":"0","alpn":"","fp":"","host":"nasnet-162191099.sharghdaily.co","id":"nasnet","insecure":"0","net":"ws","path":"/nasnet/cdn?ed\u003d2560","port":"8080","ps":"@Magsin_Vpn 🔥","scy":"auto","sni":"","tls":"","type":"---","v":"2"} # [ By DukeMehdi ] 🔒
