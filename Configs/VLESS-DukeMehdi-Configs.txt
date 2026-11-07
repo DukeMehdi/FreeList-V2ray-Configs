@@ -1,0 +1,1 @@
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406 #🌐 [ Configs by DukeMehdi ] VL-XX
